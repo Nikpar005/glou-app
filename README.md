@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <img src="screenshots/home.jpg" width="200" alt="Η αρχική οθόνη: ο Glou στο σκηνικό του και ο στόχος της ημέρας">
   <img src="screenshots/goal.jpg" width="200" alt="Πρώτο άνοιγμα: ο στόχος υπολογίζεται από το βάρος και την κίνηση">
   <img src="screenshots/wardrobe-outfits.jpg" width="200" alt="Η ντουλάπα του Glou με τις στολές">
   <img src="screenshots/wardrobe-scenes.jpg" width="200" alt="Τα σκηνικά για τον Glou">
