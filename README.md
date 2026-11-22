@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/today-el.jpg" width="200" alt="Η αρχική οθόνη με τον Glou στην παραλία">
-  <img src="screenshots/wardrobe.jpg" width="200" alt="Η ντουλάπα του Glou με τα σκηνικά">
-  <img src="screenshots/midnight.jpg" width="200" alt="Το σκούρο θέμα με τον Glou στο διάστημα">
-  <img src="screenshots/calendar.jpg" width="200" alt="Το ημερολόγιο με το σερί">
+  <img src="screenshots/goal.jpg" width="200" alt="Πρώτο άνοιγμα: ο στόχος υπολογίζεται από το βάρος και την κίνηση">
+  <img src="screenshots/wardrobe-outfits.jpg" width="200" alt="Η ντουλάπα του Glou με τις στολές">
+  <img src="screenshots/wardrobe-scenes.jpg" width="200" alt="Τα σκηνικά για τον Glou">
+  <img src="screenshots/calendar.jpg" width="200" alt="Το ημερολόγιο με το σκούρο θέμα">
 </p>
 
 ## Εγκατάσταση
